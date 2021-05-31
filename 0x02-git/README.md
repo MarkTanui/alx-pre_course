@@ -1,0 +1,1 @@
+I have succesfully created a directory with a file using the terminal,added,commited and pushed succesfully. 
